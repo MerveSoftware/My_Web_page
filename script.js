@@ -1,0 +1,1 @@
+alert("slm bu bir mesajdir");
